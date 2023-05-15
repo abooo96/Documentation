@@ -6,7 +6,7 @@ Step 1: prerequisites
 ---------------------
 
 <details>
-  <summary>Python3.5 or newer</summary>
+  <summary>Python3.8.16 or newer</summary>
 
   Check your Python3 version by executing the following command on the
   terminal:
